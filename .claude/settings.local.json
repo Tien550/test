@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"D:\\\\test\\\\test\")",
+      "Bash(git -C \"D:\\\\test\\\\test\" branch)",
+      "Bash(git -C \"D:\\\\test\\\\test\" status)",
+      "Bash(git *)"
+    ]
+  }
+}
